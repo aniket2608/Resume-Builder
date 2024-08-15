@@ -54,8 +54,8 @@ The Resume Builder project is a user-friendly React.js application designed to h
 
 
 
-<img width="700" alt="Screenshot 2024-08-16 005647" src="https://github.com/user-attachments/assets/460b7fe8-062a-4c75-9d64-db0e13ce320a
-">
+
+<img width="700" alt="Screenshot 2024-08-16 005647" src="https://github.com/user-attachments/assets/8d89806a-c394-414b-987f-8a37c77d03e6">
 
 
 
