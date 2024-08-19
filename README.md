@@ -3,8 +3,6 @@
 
 The Resume Builder project is a user-friendly React.js application designed to help individuals create professional resumes with ease. This application offers an intuitive interface that guides users through the process of inputting their personal information, work experience, education, skills, and other relevant details. Built with React.js, the application ensures a smooth and dynamic user experience, allowing for real-time preview and customization of resume templates.
 
-# Website-link
-
 
 
 
